@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="b3259bf9db010300a02a712ebf9619f8" sys_domain="global" table="x_110567_test_innovate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-07 21:20:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a3d5133ddb010300a02a712ebf961905</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_110567_test_innovate" name="x_110567_test_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">b3259bf9db010300a02a712ebf9619f8</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_110567_test_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">ff25dbf9db010300a02a712ebf96190f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-07 21:20:25</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_110567_test_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-07 21:17:25</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3259bf9db010300a02a712ebf9619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_110567_test_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TEST" source="x_110567_test">21788ff1db010300a02a712ebf9619a9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="TEST">21788ff1db010300a02a712ebf9619a9</sys_scope>
+            <sys_update_name>sys_ui_form_sections_b3259bf9db010300a02a712ebf9619f8</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-07 21:17:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
