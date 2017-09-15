@@ -52,8 +52,8 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-13 21:21:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
-        <sys_id>086f82ffdb410300a02a712ebf96191b</sys_id>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c3fc7688db510300a02a712ebf9619c5</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Short Description</sys_name>
         <sys_package display_value="TEST" source="x_110567_test">21788ff1db010300a02a712ebf9619a9</sys_package>
@@ -61,8 +61,8 @@
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="TEST">21788ff1db010300a02a712ebf9619a9</sys_scope>
         <sys_update_name>sys_dictionary_x_110567_test_needit_short_description</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-09-13 21:21:36</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-09-14 19:18:09</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

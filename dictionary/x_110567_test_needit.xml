@@ -4,6 +4,13 @@
         <element label="Active" max_length="100" name="active" type="string"/>
         <element label="Additional Comments" max_length="40" name="additional_comments" type="string"/>
         <element label="Description" max_length="400" name="description" type="string"/>
+        <element choice="3" default="1" label="Impact" max_length="25" name="impact" type="string">
+            <choice>
+                <element label="High" value="1"/>
+                <element label="Low" value="3"/>
+                <element label="Medium" value="2"/>
+            </choice>
+        </element>
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
         <element label="Opened" max_length="25" name="opened" type="string"/>
         <element label="Opened by" max_length="25" name="opened_by" type="string"/>

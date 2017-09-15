@@ -12,7 +12,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-09-13 17:05:38</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>9a15d977db010300a02a712ebf9619de</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_110567_test.needit_user</sys_name>
